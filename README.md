@@ -61,16 +61,13 @@ smart plant care.
 
 **Focus:** IoT • Sensors • Data Monitoring
 
-
-
-
-
 - Artificial Intelligence
 - Machine Learning
 - Backend Development
 - REST API Development
 - Software Engineering
 - Git & GitHub
+
 
 ## 🎯 Career Goal
 
