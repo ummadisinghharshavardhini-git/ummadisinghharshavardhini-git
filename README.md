@@ -39,7 +39,7 @@ that solve real-world problems.
 A security-focused system designed to monitor employee activities
 and identify suspicious behavioral patterns.
 
-**Technologies:** Python, FastAPI, SQL, Git & GitHub
+**Tech Stack:** Python • FastAPI • SQL • Git & GitHub
 
 🔗 [View Project](https://github.com/ummadisinghharshavardhini-git/insider-threat-intelligence-system)
 
@@ -51,12 +51,19 @@ and identify suspicious behavioral patterns.
 An AI-based project designed to help students prepare for interviews
 through intelligent practice and feedback.
 
+**Focus:** Artificial Intelligence • Machine Learning • Python
+
+
 ### 🌱 IoT Smart Plant Monitoring System
 
 An IoT-based project for monitoring plant conditions and supporting
 smart plant care.
 
-## 📚 Currently Learning
+**Focus:** IoT • Sensors • Data Monitoring
+
+
+
+
 
 - Artificial Intelligence
 - Machine Learning
