@@ -1,36 +1,58 @@
-# HARSHA-VARDHINI
+# HARSHA VARDHINI
 # Hi 👋, I'm Harsha Vardhini
 
-🎓 Computer Science Student | 💻 Aspiring Software Developer | 🤖 AI & ML Enthusiast
+🎓 Data Science Student | 📊 Aspiring Data Scientist | 🤖 AI & ML Enthusiast
 
 ## 🌱 About Me
 
-I'm a passionate Computer Science student interested in
-Software Development, Artificial Intelligence and Machine Learning.
+I'm a passionate Data Science student interested in Data Analytics,
+Artificial Intelligence, Machine Learning, and Software Development.
 
-I enjoy learning new technologies and building practical projects
-that solve real-world problems.
+I enjoy working with data, exploring insights, learning new
+technologies, and building practical projects that solve
+real-world problems.
 
 ## 🛠️ Technical Skills
 
 ### 💻 Programming
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+
+- Python
+- Java
+- C
+
+### 📊 Data Science & Analytics
+
+- Data Analysis
+- Exploratory Data Analysis (EDA)
+- NumPy
+- Pandas
+- Data Visualization
+- Statistical Analysis
+
+### 🤖 Artificial Intelligence & Machine Learning
+
+- Machine Learning
+- Artificial Intelligence
+- Classification Algorithms
+- K-Nearest Neighbours (KNN)
 
 ### ⚙️ Backend & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-### 🗄️ Database
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+- FastAPI
+- REST APIs
 
-### 🤖 AI & Machine Learning
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+### 🗄️ Databases
 
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- SQL
+- PostgreSQL
+- MongoDB
+- SQLite
+
+### 🔧 Tools & Technologies
+
+- Git
+- GitHub
+- Jupyter Notebook
 
 ## 🚀 Featured Projects
 
@@ -45,14 +67,12 @@ and identify suspicious behavioral patterns.
 
 📌 [Milestone 1 Pull Request](https://github.com/ummadisinghharshavardhini-git/insider-threat-intelligence-system/pull/1)
 
-
 ### 🤖 AI Interview Preparation System
 
 An AI-based project designed to help students prepare for interviews
 through intelligent practice and feedback.
 
 **Focus:** Artificial Intelligence • Machine Learning • Python
-
 
 ### 🌱 IoT Smart Plant Monitoring System
 
@@ -61,19 +81,25 @@ smart plant care.
 
 **Focus:** IoT • Sensors • Data Monitoring
 
-- Artificial Intelligence
+## 📚 Currently Learning
+
+- Data Science
 - Machine Learning
+- Artificial Intelligence
+- Data Analytics
+- Data Visualization
 - Backend Development
 - REST API Development
 - Software Engineering
-- Git & GitHub
 
 ## 🎯 Career Goal
 
-To become a skilled software developer and build innovative,
-AI-powered solutions that create real-world impact.
+To become a skilled Data Scientist with strong expertise in
+Artificial Intelligence, Machine Learning, and Data Analytics.
 
-## 📫 Connect With Me
+I aim to develop strong analytical and technical skills, gain
+hands-on experience with real-world data, and build intelligent
+solutions that create meaningful impact.
 
 ## 📫 Connect With Me
 
