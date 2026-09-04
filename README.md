@@ -27,10 +27,15 @@ that solve real-world problems.
 
 ### 🔐 Insider Threat Behavioral Intelligence System (ITBIS)
 
-A security-focused software project designed to analyze employee
-activities and help identify suspicious behavioral patterns.
+A security-focused system designed to monitor employee activities
+and identify suspicious behavioral patterns.
 
 **Technologies:** Python, FastAPI, SQL, Git & GitHub
+
+🔗 [View Project](https://github.com/ummadisinghharshavardhini-git/insider-threat-intelligence-system)
+
+📌 [Milestone 1 Pull Request](https://github.com/ummadisinghharshavardhini-git/insider-threat-intelligence-system/pull/1)
+
 
 ### 🤖 AI Interview Preparation System
 
