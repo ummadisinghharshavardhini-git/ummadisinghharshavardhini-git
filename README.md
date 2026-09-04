@@ -63,8 +63,10 @@ AI-powered solutions that create real-world impact.
 
 ## 📫 Connect With Me
 
-- 💻 GitHub: https://github.com/ummadisinghharshavardhini-git
-- 🔗 LinkedIn: UMMADI SINGH HARSHA VARDHINI
+## 📫 Connect With Me
+
+- 💻 GitHub: [My GitHub](https://github.com/ummadisinghharshavardhini-git)
+- 🔗 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/ummadi-singh-harsha-vardhini-1b3896356/)
 
 ---
 
